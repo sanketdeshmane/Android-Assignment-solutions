@@ -22,3 +22,4 @@ No 10 => Create an application that will Demonstrate Button onClick() Event and 
         Color based on button Clicked
 No 11 => Create an UI such that, one screen have list of all the types of cars. On selecting of any car
         name, next screen should show Car details like: name, launched date, company name.
+No 12 =>Create an application that will Demonstrate Dialog Box Control In Android 4
